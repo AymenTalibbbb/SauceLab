@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<loginScenario>
+
+    <browserchoosen>Chrome</browserchoosen>
+    <username>standard_user</username>
+    <password>secret_sauce</password>
+
+</loginScenario>
